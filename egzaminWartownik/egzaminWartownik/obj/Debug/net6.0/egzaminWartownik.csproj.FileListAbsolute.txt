@@ -1,0 +1,15 @@
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.csproj.AssemblyReference.cache
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.AssemblyInfoInputs.cache
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.AssemblyInfo.cs
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.csproj.CoreCompileInputs.cache
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\bin\Debug\net6.0\egzaminWartownik.exe
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\bin\Debug\net6.0\egzaminWartownik.deps.json
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\bin\Debug\net6.0\egzaminWartownik.runtimeconfig.json
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\bin\Debug\net6.0\egzaminWartownik.dll
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\bin\Debug\net6.0\egzaminWartownik.pdb
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.dll
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\refint\egzaminWartownik.dll
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.pdb
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\egzaminWartownik.genruntimeconfig.cache
+C:\Users\Użytkownik\Desktop\C#\egzaminWartownik\egzaminWartownik\obj\Debug\net6.0\ref\egzaminWartownik.dll
